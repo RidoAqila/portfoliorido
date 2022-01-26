@@ -1,10 +1,18 @@
 import "./App.css";
-import Navbar from "./components/Navbar";
+import HeroSection from "./components/HeroSection";
+import ProfileSection from "./components/ProfileSection";
+import SKillsSection from "./components/SKillsSection";
+import ProjectSection from "./components/ProjectSection";
+import ContactSection from "./components/ContactSection";
 
 function App() {
   return (
-    <Navbar/>
-  );
+    //<HeroSection/>
+    //<ProfileSection/>
+    //<SKillsSection/>
+    //<ProjectSection/>
+    //<ContactSection/>
+  )
 }
 
 export default App;
